@@ -1,6 +1,5 @@
-:HL["/_next/static/chunks/3h01g7wn-ml9g.css","style"]
+:HL["/_next/static/chunks/1umnpjsvybg16.css","style"]
 :HL["/header2.webp","image",{"fetchPriority":"high"}]
-:HL["/_next/static/media/name.3cdgkrf_44c70.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"Cq9EYWIHC7y6pd6rzm5QQ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"lSv-g9ndyeqCRJ2Rj5dm3","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

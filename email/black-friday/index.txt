@@ -1,0 +1,184 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/36p3ef327-v2u.js"
+3:I[22016,["$2"],""]
+5:I[47484,["$2"],"default"]
+6:I[39756,["$2"],"default"]
+7:I[37457,["$2"],"default"]
+8:I[89420,["$2"],"default"]
+13:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/1umnpjsvybg16.css","style"]
+:HL["/_next/static/media/0255eb7af02910bd-s.p.0s0_k7tu-j9dp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/037e130af27a5971-s.p.30wwts7b970g_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1f8232d550b993e8-s.p.2y7uwpak2gl2n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/248e1dc0efc99276-s.p.1d6sb5kuiz5lw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/3f64b4c74296654b-s.p.24hq-f6pb_80r.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/4250ce0f872c1bb0-s.p.24r51udz3f1_d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/6abdd198e0767e69-s.p.0yol_-wsblxc0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/791265848048096c-s.p.25rec8eg7arkv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9c6ab24f3e5fdb61-s.p.3lbqdx2am57xq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/9de307755bdae5a1-s.p.1kbfywaj9b7tf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a9ea9ad630487a2c-s.p.1qktsvfvinyk4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d77f666e4141493f-s.p.409-2_mz3k7j5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e3dc64e5202dfaef-s.p.236t5etn0d_xr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/ef1484efef1c9752-s.p.0vtrapzs99yg4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/025qbgg5fe8_q.css","style"]
+:HL["/header2.webp","image",{"fetchPriority":"high"}]
+4:[["$","source",null,{"media":"(max-width: 800px)","srcSet":"/_next/static/media/jamie-kerig-script-logo.0crkc5ooprxm_.webp"}],["$","img",null,{"src":"/_next/static/media/name.3cdgkrf_44c70.png","alt":"Jamie Kerig","style":{"display":"block","width":"100%"}}]]
+d:X
+10:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L11","p":false,"v":null}}]]
+e:[["children",{"s":{"n":"slug","t":"d","k":"black-friday","s":[]},"h":66048,"d":{"r":"$Lf","p":false,"v":"$d"},"c":"$Q10"}]]
+b:[["children",{"s":"email","h":131584,"d":{"r":"$Lc","p":false,"v":"$d"},"c":"$Qe"}]]
+0:{"P":null,"c":["","email","black-friday",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1umnpjsvybg16.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/36p3ef327-v2u.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"jY0-iG_variable WBAH4a_variable Tdr2NW_variable A61klq_variable","children":[["$","head",null,{"children":["$","link",null,{"rel":"preload","href":"/header2.webp","as":"image","fetchPriority":"high"}]}],["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Jamie Kerig\",\"jobTitle\":\"Front-End Web Developer & Graphic Designer\",\"url\":\"https://jamiekerig.com/\",\"address\":{\"@type\":\"PostalAddress\",\"addressRegion\":\"MD\",\"addressCountry\":\"US\"},\"alumniOf\":\"Towson University\",\"sameAs\":[\"https://www.linkedin.com/in/jamieleedesign/\",\"https://www.figma.com/@jamieleedesign\",\"https://www.instagram.com/pumpkinphantompaintings/\"]},{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Jamie Kerig\",\"url\":\"https://jamiekerig.com/\"}]"}}],["$","div",null,{"className":"site-wrapper","children":[["$","nav",null,{"className":"navbar","children":[["$","$L3",null,{"href":"/","className":"navbar-logo","aria-label":"Jamie Kerig, home","children":["$","picture",null,{"children":"$4"}]}],["$","ul",null,{"className":"nav-links","children":[["$","li",null,{"children":["$","$L3",null,{"href":"/about/","className":"u-link","children":"About"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/web/","className":"u-link","children":"Web"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/graphic/","className":"u-link","children":"Graphic"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/contact/","className":"u-link","children":"Contact"}]}]]}],["$","$L5",null,{}]]}],["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"main-column main-column-p90","children":["$","section",null,{"className":"top-section top-column-padding","children":["$","div",null,{"className":"column-split center column-padding","children":[["$","h1",null,{"children":["$","span",null,{"className":"divider-2","children":"404"}]}],["$","h2",null,{"children":"Page not found"}],["$","h3",null,{"children":"Sorry, that page doesn't exist or has moved."}],["$","p",null,{"children":"Try one of the links above, or head back to the home page or my web projects."}],["$","div",null,{"className":"two-column-button","children":[["$","$L3",null,{"href":"/","children":["$","button",null,{"className":"blue","type":"button","children":"Home"}]}],["$","$L3",null,{"href":"/web/","children":["$","button",null,{"className":"white","type":"button","children":"Web Projects"}]}]]}]]}]}]}]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L8",null,{}],["$","footer",null,{"children":[["$","div",null,{"className":"sitemap","children":["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"/privacypolicy.html","target":"_blank","rel":"noopener noreferrer","children":"Privacy Policy"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/site-map/","children":"Sitemap"}]}],["$","li",null,{"children":["$","$L3",null,{"href":"/articles/","children":"Articles"}]}],[["$","li","/web-design-bel-air-md/",{"children":["$","$L3",null,{"href":"/web-design-bel-air-md/","children":"Bel Air"}]}],["$","li","/web-design-abingdon-md/",{"children":["$","$L3",null,{"href":"/web-design-abingdon-md/","children":"Abingdon"}]}],["$","li","/web-design-fallston-md/",{"children":["$","$L3",null,{"href":"/web-design-fallston-md/","children":"Fallston"}]}],["$","li","/wedding-websites-white-hall-md/",{"children":["$","$L3",null,{"href":"/wedding-websites-white-hall-md/","children":"White Hall"}]}]],["$","li",null,{"children":["$","a",null,{"className":"footer-social","href":"https://www.linkedin.com/in/jamieleedesign/","target":"_blank","rel":"noopener noreferrer","aria-label":"Jamie Kerig on LinkedIn","children":["$","svg",null,{"viewBox":"0 0 24 24","width":"22","height":"22","fill":"currentColor","aria-hidden":"true","focusable":"false","children":["$","path",null,{"d":"M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"}]}]}]}],"$L9"]}]}],"$La"]}]]}]]}]]}]]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":"$L12","p":false,"v":null}},"m":"$undefined","G":["$13",["$L14"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"lSv-g9ndyeqCRJ2Rj5dm3"}
+16:I[97367,["$2"],"OutletBoundary"]
+17:"$Sreact.suspense"
+19:"ViewportBoundary"
+1a:I[97367,["$2"],"$19"]
+1c:"MetadataBoundary"
+1d:I[97367,["$2"],"$1c"]
+9:["$","li",null,{"children":["$","a",null,{"className":"footer-social","href":"https://www.figma.com/@jamieleedesign","target":"_blank","rel":"noopener noreferrer","aria-label":"Jamie Kerig on Figma","children":["$","svg",null,{"viewBox":"0 0 24 24","width":"22","height":"22","fill":"currentColor","aria-hidden":"true","focusable":"false","children":["$","path",null,{"d":"M15.852 8.981h-4.588V0h4.588c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.491-4.49 4.491zM12.735 7.51h3.117c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-3.117V7.51zm0 1.471H8.148c-2.476 0-4.49-2.014-4.49-4.49S5.672 0 8.148 0h4.588v8.981zm-4.587-7.51c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V1.471H8.148zm4.587 15.019H8.148c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h4.588v8.98zM8.148 8.981c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h3.117V8.981H8.148zM8.172 24c-2.489 0-4.515-2.014-4.515-4.49s2.014-4.49 4.49-4.49h4.588v4.441c0 2.503-2.047 4.539-4.563 4.539zm-.024-7.51a3.023 3.023 0 0 0-3.019 3.019c0 1.665 1.365 3.019 3.044 3.019 1.705 0 3.093-1.376 3.093-3.068v-2.97H8.148zm7.704 0h-.098c-2.476 0-4.49-2.014-4.49-4.49s2.014-4.49 4.49-4.49h.098c2.476 0 4.49 2.014 4.49 4.49s-2.014 4.49-4.49 4.49zm-.097-7.509c-1.665 0-3.019 1.355-3.019 3.019s1.355 3.019 3.019 3.019h.098c1.665 0 3.019-1.355 3.019-3.019s-1.355-3.019-3.019-3.019h-.098z"}]}]}]}]
+a:["$","div",null,{"className":"copyright","children":["$","p",null,{"children":["© 2026 Jamie Lee Thomas Kerig",["$","br",null,{}],"Built with Next.js v.16.4.0 and React v.19.3.0"]}]}]
+c:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L15",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/025qbgg5fe8_q.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0mgkdxnyjrtyw.js","async":true,"nonce":"$undefined"}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}]
+12:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":"$L1e"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+14:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1umnpjsvybg16.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1f:"/_next/static/chunks/0mgkdxnyjrtyw.js"
+20:I[13934,["$2","$1f"],"default"]
+d:C
+21:T253e,<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+       
+       <html lang="en"><head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <meta name="robots" content="noindex">
+        <title>Stansberry Research: Our Bestselling Ideas</title>
+
+
+        <style type="text/css">
+			
+			@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);.ExternalClass,.ExternalClass div,.ExternalClass font,.ExternalClass p,.ExternalClass span,.ExternalClass td,img{line-height:100%}.appleLinks a,img{text-decoration:none}.ExternalClass,.ReadMsgBody{width:100%}a,blockquote,body,li,p,table,td{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}table,td{    padding-bottom: 15px;}img{border:0;height:auto;outline:0}table{border-collapse:collapse!important}#bodyCell,#bodyTable,body{height:100%!important;margin:0;padding:0;width:100%!important}.copy-table{width:75%!important}.story-4{width:78%!important}.appleLinks a{color:#c2c2c2!important}span.preheader{display:none!important}
+		   </style>
+        <style id="hs-inline-css">.master-table{width:100%;max-width:600px;}.responsive-table{width:96.67%;max-width:580px;}</style>
+        <style type="text/css">@media only screen and (max-width:599px){.responsive-table{width:95%!important}.master-table{width:100%!important}.responsive-header-cell,.responsive-header-cell-big{display:block;text-align:left;width:240px;margin-left:15px}.responsive-header-cell-big{font-size:22px!important}.copy-table,.story-4{width:85%!important}.full-card-image,.hero-image{width:100%!important}}@media only screen and (max-width:480px){.social-cell,body{width:100%!important}a,blockquote,body,li,p,table,td{-webkit-text-size-adjust:none!important}body{min-width:100%!important}.social-spacer{height:10px!important}}</style>
+       <!--[if mso]>
+    <style>.outlookh1 {  margin: 0 !important; font-family: Arial, sans-serif !important;font-size:24px !important;line-height:23px !important;font-weight:700 !important;color:#222222 !important; padding-top: 15px;-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale; }
+	
+	.outlookh2orange {  margin: 0 !important; font-family: Arial, sans-serif !important;font-size:22px !important;line-height:30px !important;font-weight:700 !important;color:#f28a07 !important; padding-top: 15px;-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale; }
+	
+
+	.master-table { width: 600px !important; } /*Outlook ignores max-width, so give it a fixed width*/
+	.responsive-table { width: 575px !important; } /*match the 575px header image, since max-width is ignored*/
+	</style>
+<![endif]--> 
+        
+   </head>
+
+
+<body style="background-color:#eaeced;">
+<center>
+<!--container table-->
+<table class="master-table" align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="600" bgcolor="#eaeced">
+ <tbody>
+ <tr height="0"><td colspan="2" align="center" valign="bottom">&nbsp;
+</td></tr>
+	
+	 <tr><td width="270">      <center>
+          <img  src="img/logo.svg" width="200" border="0" alt="Stansberry Research"></center></td>
+	   <td width="125" style="color:#004480;font-family: Arial, sans-serif !important;font-size: 17px;line-height: 23px;">Our Bestselling Ideas<br>10/10/2022</td></tr>
+		
+
+	
+				
+<!--header logos-->
+    <tr>
+     <td colspan="2" align="left" style="text-align: left;">
+                <p style="font-family: Arial, sans-serif !important;font-size: 17px;line-height: 23px;margin: 0 16px 0 16px;">Here at Stansberry Research, we scan through the very best investment opportunities. See below for our current bestselling ideas, some of which won't be available for much longer. (If you're having trouble viewing this email, click here to view it in your browser.)</p>
+									
+		</td></tr>                                          
+
+
+
+<tr><td colspan="2" align="center" valign="top">
+    <table class="responsive-table" width="620" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" valign="top" style="width:96.67%; max-width:576px; overflow:hidden !important; border-radius:3px;">
+        <tbody><tr><td><img src="img/blackfriday-header.png" class="hero-image" width="575" height="260" style="border:0;max-width:100% !important;" alt="Our exclusive Black Friday deal: 50% off. Offer expires at midnight tonight"></td></tr>
+        
+        <tr><td align="center">
+            <table width="85%">
+                <tbody><tr><td align="center"><h1 style="margin: 0 !important; font-family: Arial, sans-serif !important;font-size:26px !important;line-height:34px !important;font-weight:700 !important;color:#222222 !important; padding-top: 15px;-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;" class="outlookh1">Happy Turkey Day! Keep an eye out tomorrow for an <em>exclusive</em> Black Friday deal from Stansberry Research.</h1></td></tr>
+                
+            </tbody></table>
+        </td></tr>
+        
+        <tr><td align="center">
+            <table border="0" cellpadding="0" cellspacing="0" width="78%">
+                <tbody><tr>
+                  <td align="left" style="font-family:Arial, sans-serif !important;font-size:16px !important;line-height:28px !important;font-weight:400 !important;color:#111111 !important;"><p>Dear Stanberry Reader, </p>
+                    <p>Our offices are closed today and tomorrow for Thanksgiving and &quot;Black Friday.&quot; </p>
+                    <p>&nbsp;</p></td></tr>
+            </tbody></table>
+        </td></tr>
+        
+        <tr><td align="center" valign="top">
+            <table border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr><td align="center" valign="top" >
+                   <h2 style="margin: 0 !important; font-family: Arial, sans-serif !important;font-size:22px !important;line-height:30px !important;font-weight:700 !important;color:#f28a07 !important; padding-top: 15px;-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;"><font color="#f28a07">Remember:<br />
+                       Tomorrow.<br />
+Our <em>exclusive</em> Black Friday deal.<br />
+					   24 HOURS ONLY.</font></h2>
+                </td></tr>
+            </tbody></table>
+            
+
+            
+        </td></tr>
+         </tbody></table>
+</td></tr>
+		    
+		    
+	    <tr>
+            <td colspan="2" align="left" class="responsive-padding" style="padding: 0 22px 22px; text-align: left; font-family: Arial, sans-serif; font-size: 11px; line-height: 14px; color: #000000;">
+                                
+             <p style="font-family: Arial, sans-serif; font-size: 11px; line-height: 14px;"><br>
+                                        All contents of this e-mail are copyright <span id="copyright-year"></span> by Stansberry Research. All rights reserved.
+                                        Reproducing any part of this document is prohibited without the express written consent of Porter Stansberry.
+                                        Protected by U.S. Copyright Law {Title 17 U.S.C. Section 101 et seq., Title 18 U.S.C. Section 2319}: Infringements can be punishable
+                                        by up to five years in prison and $250,000 in fines.
+                                      <br>
+                                      <br>
+                                        DISCLAIMER: The work included in this publication is based on SEC filings, current events, interviews, and corporate press releases.
+                                        It may contain errors, and you shouldn't make any investment decision based solely on what you read here. It's your money and your
+                                        responsibility. The views expressed in this publication do not necessarily reflect the views of
+                                        Stansberry Research.
+                                      <br>
+                                      <br>
+                                        You're receiving this email at
+                                      
+                                            %%emailaddr%%.
+                                        If you have any questions about your subscription, or would like to change your
+                                        email settings, please contact Stansberry Research at (888) 555-0100 Monday-Friday between 9:00 a.m. and 5:00 p.m.
+                                        Eastern Time. Or if calling internationally, please call 443-555-0101. Stansberry Research,
+                                        1111 Fake Street Baltimore, MD 21201. If you wish to contact us by email, please do not reply to this message but instead go to
+                                        <a style="text-decoration: underline;" href="mailto:info@example.com">
+                                            info@example.com</a>.                                <br>
+                                            <br>
+       
+                                    To unsubscribe from this mailing, click here: <a href="%%unsub_center_url%%">Unsubscribe</a><br>
+									  <custom name="opencounter" type="tracking"></custom></p></td></tr>
+        	    
+			    </tbody></table>
+              
+              
+              <!---end main container-->
+       
+		</center>
+<script>document.getElementById("copyright-year").textContent = new Date().getFullYear();</script>
+</body></html> 
+		15:["$","div",null,{"children":["$","$L20",null,{"email":{"slug":"black-friday","file":"black-friday-email.html","size":"wide","title":"Black Friday","type":"Promotional e-mail","tags":["Cross-client","Table layout"],"text":"A Black Friday campaign template, designed for mobile and tested across several e-mail applications.","image":{"src":"/_next/static/media/blackfriday-email-screenshot.0od049kwsimj8.png","width":1098,"height":1307,"blurWidth":7,"blurHeight":8,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAICAYAAAA1BOUGAAAAtElEQVR42lXOvwqCUBgF8J6yoaEnaIgg2gJDGqK1x4igpYYoKtoKtCyvooipmZaVBpf8AydtuTR8H5zzW07Jvwc42w52ogRBIhBPKqyLi6IvFW84WaBc66DBD1Cp8xhNlwzHsw2qzR7a3T5aHIf5as3wlp9hGDANDZ5j4vkIGL6iCJRSJPEHaZoijN4Mi5DFFFnoIEvoP9r5OkIIVIVA03W4ns/QtGxshQP2RxmyosJxrz/8AmkFxiE6B1JZAAAAAElFTkSuQmCC"},"subject":"Our Bestselling Ideas","sender":"Jamie Kerig","address":"jamiekerig@example.com","preview":"Here at the research desk, we scan through the very best investment opportunities..."},"html":"$21"}]}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0a1428"}]]
+22:I[27201,["$2"],"IconMark"]
+18:null
+1e:[["$","title","0",{"children":"Black Friday E-mail Preview | Jamie Kerig"}],["$","meta","1",{"name":"description","content":"Black Friday e-mail template previewed in Gmail, Apple Mail and Outlook 2016."}],["$","meta","2",{"name":"author","content":"Jamie Kerig"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","link","4",{"rel":"canonical","href":"https://jamiekerig.com/email/black-friday/"}],["$","meta","5",{"property":"og:title","content":"Jamie Kerig | Maryland Front-End Web Developer & Graphic Designer"}],["$","meta","6",{"property":"og:description","content":"Explore the creative portfolio of Jamie Kerig, a Maryland-based web designer. Specializing in modern, responsive websites tailored to elevate your brand online."}],["$","meta","7",{"property":"og:url","content":"https://jamiekerig.com/"}],["$","meta","8",{"property":"og:site_name","content":"Jamie Kerig"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:image","content":"https://jamiekerig.com/og-image.png"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Jamie Kerig | Maryland Front-End Web Developer & Graphic Designer"}],["$","meta","14",{"name":"twitter:description","content":"Explore Jamie Kerig's creative portfolio of modern, responsive web design projects. Let’s bring your vision to life!"}],["$","meta","15",{"name":"twitter:image","content":"https://jamiekerig.com/og-image.png"}],["$","link","16",{"rel":"icon","href":"/icon.png"}],["$","link","17",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L22","18",{}]]

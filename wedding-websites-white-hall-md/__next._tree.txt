@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/3h01g7wn-ml9g.css","style"]
+:HL["/_next/static/chunks/1umnpjsvybg16.css","style"]
 :HL["/_next/static/media/0255eb7af02910bd-s.p.0s0_k7tu-j9dp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/037e130af27a5971-s.p.30wwts7b970g_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/1f8232d550b993e8-s.p.2y7uwpak2gl2n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -13,10 +13,9 @@
 :HL["/_next/static/media/d77f666e4141493f-s.p.409-2_mz3k7j5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e3dc64e5202dfaef-s.p.236t5etn0d_xr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ef1484efef1c9752-s.p.0vtrapzs99yg4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/chunks/25yt298mm3etb.css","style"]
+:HL["/_next/static/chunks/1v13bhkmw00qi.css","style"]
 :HL["/header2.webp","image",{"fetchPriority":"high"}]
-:HL["/_next/static/media/name.3cdgkrf_44c70.png","image"]
 :HL["/_next/static/media/wedding-head-block-ss.1qe5_r8_yuecs.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"wedding-websites-white-hall-md","h":64,"c":"$Q2"}]]
-0:{"b":"Cq9EYWIHC7y6pd6rzm5QQ","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"lSv-g9ndyeqCRJ2Rj5dm3","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
