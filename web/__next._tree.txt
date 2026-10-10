@@ -20,6 +20,7 @@
 :HL["/_next/static/media/fabric-place-head-block-ss.41jlw-mdxgd-d.png","image"]
 :HL["/_next/static/media/widget-landing-page.2-to4g21-6dfu.png","image"]
 :HL["/_next/static/media/blackfriday-email-screenshot.0od049kwsimj8.png","image"]
+:HL["/_next/static/media/stansberry-investor-hour-email-ss-half.36q2dtzxov0_c.jpg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"web","h":64,"c":"$Q2"}]]
-0:{"b":"lSv-g9ndyeqCRJ2Rj5dm3","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"VSqM_h7kgheVsyZyniOSw","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
