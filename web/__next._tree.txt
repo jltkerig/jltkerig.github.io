@@ -15,7 +15,7 @@
 :HL["/_next/static/media/ef1484efef1c9752-s.p.0vtrapzs99yg4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/1v13bhkmw00qi.css","style"]
 :HL["/header2.webp","image",{"fetchPriority":"high"}]
-:HL["/_next/static/media/pal-image.2ls8umyuod0g1.png","image"]
+:HL["/_next/static/media/pal-image.0ji8mz1r19-43.jpg","image"]
 :HL["/_next/static/media/wedding-head-block-ss.1qe5_r8_yuecs.png","image"]
 :HL["/_next/static/media/life-coach-head-block-ss.2b-ifnr7z3qkj.png","image"]
 :HL["/_next/static/media/fabric-place-head-block-ss.41jlw-mdxgd-d.png","image"]
@@ -29,4 +29,4 @@
 :HL["/_next/static/media/alliance-welcome-email-screenshot.1kjmv-89ozd9q.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"web","h":64,"c":"$Q2"}]]
-0:{"b":"E4Q1RtDferF60QCbNtk9L","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"LPsMWgoV0Ooue5M_ckcYk","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
