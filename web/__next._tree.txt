@@ -25,4 +25,4 @@
 :HL["/_next/static/media/investor-pro-landing-page.1oi_cblz-aw3i.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"web","h":64,"c":"$Q2"}]]
-0:{"b":"ocyKTbBYQusMW8fusdiJl","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"4E0s55ZeBKMqD7MXJeW2i","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
