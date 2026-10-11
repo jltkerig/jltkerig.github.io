@@ -18,6 +18,7 @@
 :HL["/_next/static/media/wedding-head-block-ss.1qe5_r8_yuecs.png","image"]
 :HL["/_next/static/media/life-coach-head-block-ss.2b-ifnr7z3qkj.png","image"]
 :HL["/_next/static/media/fabric-place-head-block-ss.41jlw-mdxgd-d.png","image"]
+:HL["/_next/static/media/oneblade-landing-screenshot.1mk9vs110m966.png","image"]
 :HL["/_next/static/media/widget-landing-page.2-to4g21-6dfu.png","image"]
 :HL["/_next/static/media/report-stock-meltup-blueprint.02es5721q-nxd.png","image"]
 :HL["/_next/static/media/investor-pro-landing-page.1oi_cblz-aw3i.png","image"]
@@ -26,4 +27,4 @@
 :HL["/_next/static/media/alliance-welcome-email-screenshot.1kjmv-89ozd9q.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"web","h":64,"c":"$Q2"}]]
-0:{"b":"gS-AQfnqoTp77mXE2paAM","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"THUMXr9IVB9mCpI97H2fo","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
