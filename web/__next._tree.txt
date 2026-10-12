@@ -30,4 +30,4 @@
 :HL["/_next/static/media/alliance-welcome-email-screenshot.1kjmv-89ozd9q.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"web","h":64,"c":"$Q2"}]]
-0:{"b":"3WPsnPb7kZ--8kOlsEtaz","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"fCjr2A1Nf-Kh4Eq1T5BHN","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
