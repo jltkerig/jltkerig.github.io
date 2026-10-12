@@ -13,9 +13,9 @@
 :HL["/_next/static/media/d77f666e4141493f-s.p.409-2_mz3k7j5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/e3dc64e5202dfaef-s.p.236t5etn0d_xr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ef1484efef1c9752-s.p.0vtrapzs99yg4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/chunks/1v13bhkmw00qi.css","style"]
+:HL["/_next/static/chunks/0ovs4dfp6s204.css","style"]
 :HL["/header2.webp","image",{"fetchPriority":"high"}]
 :HL["/_next/static/media/jamie-headshot-sq.3mlk4qa59yeen.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"about","h":64,"c":"$Q2"}]]
-0:{"b":"meCX1g5Y66ndbTgcatz5A","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"3WPsnPb7kZ--8kOlsEtaz","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
