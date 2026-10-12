@@ -20,6 +20,7 @@
 :HL["/_next/static/media/life-coach-head-block-ss.2b-ifnr7z3qkj.png","image"]
 :HL["/_next/static/media/fabric-place-head-block-ss.41jlw-mdxgd-d.png","image"]
 :HL["/_next/static/media/fabric-place-contact-ss.11v47nakuvqly.png","image"]
+:HL["/_next/static/media/crypto-melt-up-event-about-page-screenshot.2o1wg2zb0s446.png","image"]
 :HL["/_next/static/media/oneblade-landing-screenshot.1mk9vs110m966.png","image"]
 :HL["/_next/static/media/widget-landing-page.2-to4g21-6dfu.png","image"]
 :HL["/_next/static/media/report-stock-meltup-blueprint.02es5721q-nxd.png","image"]
@@ -29,4 +30,4 @@
 :HL["/_next/static/media/alliance-welcome-email-screenshot.1kjmv-89ozd9q.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"web","h":64,"c":"$Q2"}]]
-0:{"b":"oBQisYxKX_XeN5B1xRPHg","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"meCX1g5Y66ndbTgcatz5A","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
